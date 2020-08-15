@@ -167,8 +167,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,100,94.1,3293,3355,3467,3500,3233,3675
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,91.3,91.3,3311,3200,3467,3300,3075,3625
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,75,61.4,2806,2750,2854,2800,2500,3170
-2014,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Chemical Engineering,86.7,86.7,2954,2900,3285,3200,2950,3755
-2014,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,85.7,82.1,3072,2900,3141,3000,2800,3480
+,,,,,,,,,,,
+,,,,,,,,,,,
 2014,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,89.3,89.3,2430,2400,2503,2500,2200,2600
 2014,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3127,3100,3151,3100,3000,3338
 2014,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3204,3200,3229,3200,3000,3500
@@ -274,8 +274,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,100,100,3211,3050,3266,3141,2900,3500
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,100,94.7,3166,3125,3469,3350,3238,3575
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,89.2,81.1,2683,2700,2876,2700,2475,3050
-2015,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Chemical Engineering,87.5,79.2,2759,2800,2970,2950,2800,3200
-2015,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,100,90,3044,3100,3339,3250,3000,3488
+,,,,,,,,,,,
+,,,,,,,,,,,
 2015,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,92.6,81.5,2482,2300,2586,2400,2000,2800
 2015,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),100,100,3322,3300,3486,3488,3313,3650
 2015,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3126,3120,3149,3125,3000,3225
@@ -380,8 +380,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,90,90,3172,3250,3239,3300,3000,3500
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,86.4,72.7,3172,3275,3286,3430,3000,3600
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,86.7,62.2,2598,2600,2707,2600,2420,2800
-2016,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Chemical Engineering,78.6,67.9,2776,2900,3149,3130,2500,3700
-2016,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,90.9,86.4,2978,3000,3042,3000,2825,3350
+,,,,,,,,,,,
+,,,,,,,,,,,
 2016,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,86.2,69,2231,2250,2344,2300,2000,2500
 2016,Singapore Institute of Technology,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),88.2,88.2,3406,3385,3628,3660,3400,3930
 2016,Singapore Institute of Technology,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3297,3200,3301,3200,3100,3500
@@ -494,8 +494,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture ^,95.5,95.5,3451,3300,3537,3300,3200,3500
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering ^,100,86.7,3792,3300,3866,3300,3300,3950
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,97.7,79.1,2784,2600,2980,2700,2475,3200
-2017,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Chemical Engineering,84.5,74.1,3061,3000,3301,3200,3000,3375
-2017,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,82.8,82.8,3504,3175,3591,3400,3000,4000
+,,,,,,,,,,,
+,,,,,,,,,,,
 2017,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,87.9,54.5,2357,2300,2598,2300,2200,3259
 2017,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,97.1,3217,3250,3258,3300,3020,3450
 2017,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,96.8,3483,3350,3489,3400,3300,3500
@@ -602,8 +602,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) ^,95.8,87.5,3476,3300,3571,3350,3300,3800
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),96.6,96.6,3409,3450,3431,3460,3300,3610
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3258,3300,3276,3300,3000,3600
-2018,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Chemical Engineering,83.7,75.5,3048,3000,3298,3200,3000,3550
-2018,Singapore Institute of Technology,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,83.3,69.4,3506,3500,3609,3500,3300,4000
+,,,,,,,,,,,
+,,,,,,,,,,,
 2018,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Business Administration in Food Business Management,86.5,64.9,2643,2530,2929,2663,2415,3300
 2018,Singapore Institute of Technology,The Glasgow School of Art,Bachelor of Arts with Honours in Communication Design,84.9,54.7,2818,2850,3055,2950,2550,3000
 2018,Singapore Institute of Technology,The Glasgow School of Art,Bachelor of Arts with Honours in Interior Design,92.3,76.9,2710,2700,2796,2775,2500,3000
