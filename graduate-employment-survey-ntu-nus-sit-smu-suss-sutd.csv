@@ -167,8 +167,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,100,94.1,3293,3355,3467,3500,3233,3675
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,91.3,91.3,3311,3200,3467,3300,3075,3625
 2014,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,75,61.4,2806,2750,2854,2800,2500,3170
-,,,,,,,,,,,
-,,,,,,,,,,,
 2014,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,89.3,89.3,2430,2400,2503,2500,2200,2600
 2014,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3127,3100,3151,3100,3000,3338
 2014,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3204,3200,3229,3200,3000,3500
@@ -260,9 +258,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,Singapore Management University,School of Social Sciences (4-year programme) *,Social Sciences Cum Laude and above,93.1,89.7,3887,3500,4012,3560,3300,4583
 2015,Singapore Management University,School of Law (4-year programme) *,Law #,99,99,4889,4600,4997,4731,4350,5800
 2015,Singapore Management University,School of Law (4-year programme) *,Law Cum Laude and above #,100,100,5160,4766,5313,5000,4500,5995
-2015,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Product Development),92.5,88.1,3595,3618,3565,3600,3400,3800
-2015,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Systems and Design),80.3,71.8,3699,3450,3763,3500,3190,4100
-2015,Singapore University of Technology and Design,na,Bachelor of Engineering (Information Systems Technology and Design),86,83.7,3872,3700,3952,3950,3338,4450
 2015,Singapore Institute of Technology,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts & Animation,88.5,65.4,2643,2700,2682,2700,2500,2800
 2015,Singapore Institute of Technology,DigiPen Institute of Technology,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,95.2,90.5,3332,3200,3346,3233,3000,3500
 2015,Singapore Institute of Technology,The Glasgow School of Art,Bachelor of Arts with Honours in Communication Design,76.1,54.3,2896,2750,2922,2750,2523,2975
@@ -274,8 +269,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,100,100,3211,3050,3266,3141,2900,3500
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,100,94.7,3166,3125,3469,3350,3238,3575
 2015,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,89.2,81.1,2683,2700,2876,2700,2475,3050
-,,,,,,,,,,,
-,,,,,,,,,,,
 2015,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,92.6,81.5,2482,2300,2586,2400,2000,2800
 2015,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),100,100,3322,3300,3486,3488,3313,3650
 2015,Singapore Institute of Technology,Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3126,3120,3149,3125,3000,3225
@@ -380,8 +373,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture,90,90,3172,3250,3239,3300,3000,3500
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering,86.4,72.7,3172,3275,3286,3430,3000,3600
 2016,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,86.7,62.2,2598,2600,2707,2600,2420,2800
-,,,,,,,,,,,
-,,,,,,,,,,,
 2016,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,86.2,69,2231,2250,2344,2300,2000,2500
 2016,Singapore Institute of Technology,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),88.2,88.2,3406,3385,3628,3660,3400,3930
 2016,Singapore Institute of Technology,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3297,3200,3301,3200,3100,3500
@@ -394,9 +385,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,Singapore Institute of Technology,University of Manchester,Bachelor of Science with Honours in Nursing Practice,92.7,85.5,3378,3400,3600,3600,3400,3750
 2016,Singapore Institute of Technology,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,92.6,81.5,4096,4200,4131,4200,3700,4600
 2016,Singapore Institute of Technology,Wheelock College,Bachelor of Science in Early Childhood Education,98,92,2705,2700,2707,2700,2600,2850
-2016,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Product Development),87,79.7,3620,3500,3690,3600,3300,3750
-2016,Singapore University of Technology and Design,na,Bachelor of Engineering (Information Systems Technology and Design),91.9,91.9,4197,4000,4232,4000,3500,4950
-2016,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Systems and Design),100,93.5,3695,3600,3830,3650,3550,4200
 2017,Nanyang Technological University,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.1,94.5,3121,3000,3166,3000,2900,3100
 2017,Nanyang Technological University,College of Business (Nanyang Business School),Double Degree in Bachelor of Accountancy (Hons) and Bachelor of Business (Hons),97.2,94.3,3830,3500,3892,3600,3013,4317
 2017,Nanyang Technological University,College of Business (Nanyang Business School),Bachelor of Business (Hons),93,80.8,3530,3300,3643,3300,3000,3800
@@ -494,8 +482,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Naval Architecture ^,95.5,95.5,3451,3300,3537,3300,3200,3500
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering ^,100,86.7,3792,3300,3866,3300,3300,3950
 2017,Singapore Institute of Technology,Newcastle University,Bachelor of Science with Honours in Food & Human Nutrition,97.7,79.1,2784,2600,2980,2700,2475,3200
-,,,,,,,,,,,
-,,,,,,,,,,,
 2017,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,87.9,54.5,2357,2300,2598,2300,2200,3259
 2017,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,97.1,3217,3250,3258,3300,3020,3450
 2017,Singapore Institute of Technology,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,96.8,3483,3350,3489,3400,3300,3500
@@ -509,9 +495,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,Singapore Institute of Technology,Wheelock College,Bachelor of Science in Early Childhood Education,96.4,92.9,2883,2900,2890,2900,2800,3000
 2017,Singapore Institute of Technology,Singapore Institute of Technology,Bachelor of Accountancy with Honours,94.1,92.1,3073,3050,3113,3088,2975,3250
 2017,Singapore Institute of Technology,Singapore Institute of Technology,Bachelor of Hospitality Business with Honours ^,94.7,84.2,2713,2700,2829,2800,2500,3100
-2017,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Product Development),89.9,87.3,3594,3600,3638,3600,3450,3800
-2017,Singapore University of Technology and Design,na,Bachelor of Engineering (Information Systems Technology and Design),100,100,4146,4000,4175,4023,3600,4900
-2017,Singapore University of Technology and Design,na,Bachelor of Engineering (Engineering Systems and Design),91.7,85.4,3856,3800,3956,3850,3600,4210
 2018,Nanyang Technological University,College of Business (Nanyang Business School),Accountancy,94.6,92.2,3214,3000,3245,3000,3000,3200
 2018,Nanyang Technological University,College of Business (Nanyang Business School),Accountancy and Business,99.2,97.7,4391,4000,4456,4000,3600,4633
 2018,Nanyang Technological University,College of Business (Nanyang Business School),Business,92.6,84.3,3646,3500,3776,3500,3200,4000
@@ -602,8 +585,6 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) ^,95.8,87.5,3476,3300,3571,3350,3300,3800
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),96.6,96.6,3409,3450,3431,3460,3300,3610
 2018,Singapore Institute of Technology,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3258,3300,3276,3300,3000,3600
-,,,,,,,,,,,
-,,,,,,,,,,,
 2018,Singapore Institute of Technology,The Culinary Institute of America,Bachelor of Business Administration in Food Business Management,86.5,64.9,2643,2530,2929,2663,2415,3300
 2018,Singapore Institute of Technology,The Glasgow School of Art,Bachelor of Arts with Honours in Communication Design,84.9,54.7,2818,2850,3055,2950,2550,3000
 2018,Singapore Institute of Technology,The Glasgow School of Art,Bachelor of Arts with Honours in Interior Design,92.3,76.9,2710,2700,2796,2775,2500,3000
